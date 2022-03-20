@@ -11,7 +11,8 @@ Install from PyPl.
 .. code::
     pip install TRecSys
 
-Install from GitHub
+Install from GitHub.
+
 .. code::
     pip install git+https://github.com/argmaxml/TRecs
 
