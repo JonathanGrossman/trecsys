@@ -54,6 +54,10 @@ Query
 ================
 
 Gets a single item and returns its k nearest neighbors.
+What does it mean to save to disk
+When do it
+Why do it
+How to do it
 
 
 Save Model
